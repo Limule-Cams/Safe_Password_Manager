@@ -1,0 +1,8 @@
+*.out
+*.o
+*.so
+*.tmp
+*.sqlite3
+*.txt
+*.vscode
+*.swp
