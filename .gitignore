@@ -1,6 +1,5 @@
-*.out
+back/src/main.c
 *.o
-*.so
 *.tmp
 *.sqlite3
 *.txt
